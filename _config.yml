@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: fl_int coding blog
+title: coding nodes
 email: sergei.fedotov.at@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Блог о программировании.
-  Для начала буду использовать для самообучения.
+  Заметки о программировании.
 domain: fl-int.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: fl-int.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  fl-int
 
 # Build settings
 theme: minima
